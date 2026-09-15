@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**shrewdmind/shrewdmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend • Cloud • Security • AI
 
-Here are some ideas to get you started:
+I'm a software engineer focused on **backend systems, scalable architecture, cloud infrastructure, security, and AI engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Work With
+
+- **Backend:** Go, Node.js, TypeScript, Python, PostgreSQL, Redis
+- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, Terraform, Helm
+- **Security:** DevSecOps, Application Security, Security Engineering, SIEM
+- **Observability:** OpenTelemetry, Prometheus, Grafana
+- **AI:** LLMs, AI Agents, RAG, AI Automation
+- **Frontend/Mobile:** React, React Native, Expo
+
+### 🚀 Currently Building
+
+A fitness platform connecting **clients, trainers, and fitness communities**, while applying real-world practices across architecture, backend engineering, security, CI/CD, and observability.
+
+### 🎯 Interests
+
+**Distributed Systems · System Design · Cloud Engineering · Cybersecurity · AI Engineering**
+
+> Build it. Understand it. Secure it. Observe it.
