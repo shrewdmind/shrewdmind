@@ -6,11 +6,9 @@ I'm a software engineer focused on **backend systems, scalable architecture, clo
 
 ### 🛠️ What I Work With
 
-- **Backend:** Go, Node.js, TypeScript, Python, PostgreSQL, Redis
-- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, Terraform, Helm
-- **Security:** DevSecOps, Application Security, Security Engineering, SIEM
-- **Observability:** OpenTelemetry, Prometheus, Grafana
-- **AI:** LLMs, AI Agents, RAG, AI Automation
+- **Backend:** Go, Node.js, TypeScript, Python
+- **Cloud & DevOps:** Docker, Kubernetes, Terraform, Helm
+- **Security:** DevSecOps, Application Security, Security Engineering
 - **Frontend/Mobile:** React, React Native, Expo
 
 ### 🚀 Currently Building
